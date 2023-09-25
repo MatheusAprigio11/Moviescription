@@ -1,8 +1,4 @@
-# React + Vite
+# Moviescription
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Project made by the video of Matheus Battisti, with the objective to learn and upgrade my knowlodge in ReactJS
+* It get the data of an API (TMDB API) and shows the movies, with the option to show the description and another things about the movie.
