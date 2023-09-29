@@ -1,13 +1,14 @@
 *{
-  font-family: Helvetica;
+  font-family: Poppins, Helvetica;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
 body{
-  background-color: #2c2c2c;
-  color: #fff
+  background-color: #181818;
+  color: #fff;
+  padding-top: 60px;
 }
 a{
   text-decoration: none;
